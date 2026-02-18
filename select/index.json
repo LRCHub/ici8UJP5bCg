@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "テオ - Teo",
+  "base_artist": "Araki",
+  "createdAt": "2026-02-18T11:24:14.929476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/01_テオ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/02_テオ_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/03_テオ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/04_テオ_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_テオ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_テオ_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "テオ",
+      "artist": "α/あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/07_テオ_α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "テオ (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/08_テオ_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "テオ (2021) [Instrumental]",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/09_テオ_(2021)_[Instrumental]_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "テオ (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/10_テオ_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "テオ (2021)",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/11_テオ_(2021)_Omoi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テオ",
+      "artist": "Araki",
+      "has_synced": false,
+      "path": "select/pl_01_テオ_Araki.txt"
+    }
+  ]
+}
